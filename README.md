@@ -1,5 +1,5 @@
 # Description
-This is a spreadsheet implementing biquad IIR filters graphing and comparison.
+This is an OpenDocument (i.e. LibreOffice) spreadsheet implementing biquad IIR filters graphing and comparison.
 
 ![Screen capture](https://github.com/pokazef/biquads/blob/main/Misc/screencap_3.png?raw=true)
 
